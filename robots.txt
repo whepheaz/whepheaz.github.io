@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whepheaz.github.io/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/app/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/assets/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/css/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/data/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/includes/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/item/sitemap.html.gz
+Sitemap: https://whepheaz.github.io/src/sitemap.html.gz
